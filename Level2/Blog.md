@@ -49,6 +49,3 @@ Fixing these helped me practice debugging and think more carefully about input h
 The OIB-SIP internship provided a clear, structured way to practice real web development skills. The tasks were straightforward but still pushed me to think like a developer. Completing this calculator project increased my confidence in HTML, CSS, and JavaScript. I would definitely recommend this internship to beginners who want practical experience instead of only theory.
 
 ---
-
-
-Just tell me.
